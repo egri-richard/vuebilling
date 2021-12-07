@@ -16,7 +16,7 @@
   npm run serve
 ```
 
-## Hogyan dolgozz?
+##Hogyan dolgozz?
 
 A főbb pontokon commitolj és pushold fel a változtatásokat. Ezt érdemes minél sűrűbben megtenni, hisz így adod majd be a feladatot.
 
